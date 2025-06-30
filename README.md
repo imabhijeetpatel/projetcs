@@ -1,2 +1,2 @@
 # projetcs
-Here some projetcs which i learn and create them
+Here some projetcs which I learn and create them. 
