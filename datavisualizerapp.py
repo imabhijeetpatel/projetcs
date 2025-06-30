@@ -1,5 +1,9 @@
-# this is the data Visualize app which is use data in csv or excel file. it can be show data in x and y axis
-
+ # this is the data Visualize app which is use data in csv or excel file. it can be show data in x and y axis
+# basic requirement for this app
+# 1 pip install pands
+# 2 pip install tkinter
+# 3 pip install matplotlib
+# run these above commands in terminal to get all requirement
 
 
 # Intialize Tkintere app
